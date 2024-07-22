@@ -1,10 +1,10 @@
 {
   "name": "color your night1",
   "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "author": "Ethan",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": false,
+  "music": true,
   "ignore": [],
   "mappings": {}
 }
